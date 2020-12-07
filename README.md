@@ -1,2 +1,2 @@
-# MUG
-For moodleuserguides.org
+# graduate-child
+Child theme for moodleuserguides.org
