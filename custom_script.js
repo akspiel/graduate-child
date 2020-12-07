@@ -1,3 +1,3 @@
 jQuery(function ($) {
-	//code
+	console.log("test")
 });
